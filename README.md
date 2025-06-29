@@ -31,8 +31,9 @@ Key features include:
 
 1. **Clone the repository:**
 
-`git clone https://github.com/Muhammad-Ahmed-Rayyan/Library-Management-System.git
-cd Library-Management-System`
+`git clone https://github.com/Muhammad-Ahmed-Rayyan/Library-Management-System.git`
+
+`cd Library-Management-System`
 
 
 2. **Install Python (if not already installed):**
