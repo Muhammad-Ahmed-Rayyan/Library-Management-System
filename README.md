@@ -31,10 +31,10 @@ Key features include:
 
 1. **Clone the repository:**
 
-`git clone https://github.com/Muhammad-Ahmed-Rayyan/Library-Management-System.git`
-
-`cd Library-Management-System`
-
+```bash
+git clone https://github.com/Muhammad-Ahmed-Rayyan/Library-Management-System.git
+cd Library-Management-System
+```
 
 2. **Install Python (if not already installed):**
 Make sure you have Python 3.x installed on your machine.
